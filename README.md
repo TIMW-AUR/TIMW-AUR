@@ -4,4 +4,4 @@
 
 SigLevel = Never
 
-Include = /etc/pacman.d/timw-aur-mirrorlist
+Server = https://github.com/TIMW-AUR/TIMW-AUR/releases/download/TIMW-AUR/
